@@ -54,14 +54,14 @@ messaging.onBackgroundMessage(
       la notification Android.
       */
       icon:
-        "https://diarraweb.github.io/diarra63/malipay-notification-icon.png",
+        "https://diarraweb.github.io/diarra65/malipay-notification-icon.png",
 
       /*
       Petit badge monochrome utilisé
       selon la version d’Android.
       */
       badge:
-        "https://diarraweb.github.io/diarra63/malipay-notification-badge.png",
+        "https://diarraweb.github.io/diarra65/malipay-notification-badge.png",
 
       /*
       Empêche plusieurs affichages identiques
